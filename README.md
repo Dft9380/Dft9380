@@ -1,6 +1,6 @@
 # Hi, I am Diego! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
-I am [Diego Torrez](http://thepranaygupta.github.io/), currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am [Diego Torrez](http://thepranaygupta.github.io/), currently studying my degree of University Technician in Programming / Information Systems in [UTN Bs.As] (https://utn.edu.ar/es/). I am a technology enthusiast and open source advocate. I am always open to collaborate on innovative/disruptive projects and ideas. Find out more about me and feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:pranaygupta.aec@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/thepranaygupta/)
@@ -12,7 +12,7 @@ I am [Diego Torrez](http://thepranaygupta.github.io/), currently pursuing my B.T
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://thepranaygupta.github.io/)](https://thepranaygupta.github.io/) -->
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
 
-[![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thepranaygupta&theme=xcode)](https://github.com/thepranaygupta)
+[![Diego GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thepranaygupta&theme=xcode)](https://github.com/thepranaygupta)
 
 ## 👨🏻‍💻 Coding Profiles
 
