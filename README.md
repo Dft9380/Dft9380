@@ -1,4 +1,6 @@
-# Hi, I am Diego! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+# Hi, I'm Diego👋! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+
+[![banner-github.png](https://i.postimg.cc/5yVsKkFc/banner-github.png)](https://postimg.cc/zbxwV7jp)
 
 I am [Diego Torrez](http://thepranaygupta.github.io/), currently studying my degree of University Technician in Programming / Information Systems in [UTN Bs.As] (https://utn.edu.ar/es/). I am a technology enthusiast and open source advocate. I am always open to collaborate on innovative/disruptive projects and ideas. Find out more about me and feel free to connect with me here:
 
