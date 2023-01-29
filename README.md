@@ -1,4 +1,6 @@
-# Hi, I'm Diego👋! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+<h1 align="center">Hi, I'm Diego👋! Great to see you here! </h1>
+
+<img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
 [![banner-github.png](https://i.postimg.cc/5yVsKkFc/banner-github.png)](https://postimg.cc/zbxwV7jp)
 
