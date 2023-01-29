@@ -2,11 +2,12 @@
   <h1 align="center">Hi, I'm Diego👋! Great to see you here! </h1>
   <img src="https://i.postimg.cc/XYB4bpzV/banner-github.png" alt="banner_personal">
 </div>
+
+<hr>
+
 <div>
   <h3> I am <a href="https://dft9380.github.io/" target="_blank">Diego Torrez</a>. I am a technology enthusiast and open source advocate. I am always open to collaborate on innovative/disruptive projects and ideas. Find out more about me and feel free to connect with me here: </h3>
 </div>
-
-<hr>
 
 <div align="center">
   <a href="https://liandft9380@gmail.com">
