@@ -5,6 +5,9 @@
 <div>
   <h3> I am <a href="https://dft9380.github.io/" target="_blank">Diego Torrez</a>. I am a technology enthusiast and open source advocate. I am always open to collaborate on innovative/disruptive projects and ideas. Find out more about me and feel free to connect with me here: </h3>
 </div>
+
+<hr>
+
 <div align="center">
   <a href="https://liandft9380@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
