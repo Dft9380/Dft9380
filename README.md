@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Diego👋! Great to see you here! </h1>
 
 [![banner-github.png](https://i.postimg.cc/XYB4bpzV/banner-github.png)](https://postimg.cc/68KDV5KS)
-I am [Diego Torrez](http://thepranaygupta.github.io/), currently studying my degree of University Technician in Programming / Information Systems in [UTN Bs.As] (https://utn.edu.ar/es/). I am a technology enthusiast and open source advocate. I am always open to collaborate on innovative/disruptive projects and ideas. Find out more about me and feel free to connect with me here:
+### I am [Diego Torrez](https://dft9380.github.io/). I am a technology enthusiast and open source advocate. I am always open to collaborate on innovative/disruptive projects and ideas. Find out more about me and feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:pranaygupta.aec@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/thepranaygupta/)
