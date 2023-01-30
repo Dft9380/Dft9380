@@ -65,3 +65,11 @@
   <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode">
   <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu">
 </div>
+
+---
+
+### 📊My Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dft9380&theme=elegant&border_radius=10)](https://git.io/streak-stats)
+
+![Dft9380 GitHub stats](https://github-readme-stats.vercel.app/api?username=dft9380&show_icons=true&theme=radical)
