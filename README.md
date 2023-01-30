@@ -51,6 +51,17 @@
 
 <hr>
 
+### 📊My Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dft9380&theme=elegant&border_radius=10" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dft9380&show_icons=true&theme=radical" />
+</a>
+
+<hr>
+
 ### 🛠️My Favorite Tools
 <br>
 <div>
@@ -68,8 +79,4 @@
 
 ---
 
-### 📊My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dft9380&theme=elegant&border_radius=10)](https://git.io/streak-stats)
-
-![Dft9380 GitHub stats](https://github-readme-stats.vercel.app/api?username=dft9380&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dft9380&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
