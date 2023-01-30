@@ -53,12 +53,23 @@
 
 ### 📊My Stats
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dft9380&theme=elegant&border_radius=10" />
 </a>
+</div>
+<br>
+<div align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dft9380&show_icons=true&theme=radical" />
 </a>
+</div>
+<br>
+<div align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dft9380&layout=compact" />
+</a>
+</div>
 
 <hr>
 
@@ -77,6 +88,3 @@
   <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu">
 </div>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dft9380&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
